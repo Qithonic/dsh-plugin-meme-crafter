@@ -1,0 +1,8 @@
+﻿{
+  "name": "dsh-plugin-meme-crafter",
+  "version": "0.1.0",
+  "description": "DeepSeek Harness plugin: AI-powered meme and sticker generator for DeepSeek Harness.",
+  "entry": "./src/index.ts",
+  "client": "./src/client/index.tsx",
+  "tags": ["dsh-plugin", "deepseek-harness"]
+}
